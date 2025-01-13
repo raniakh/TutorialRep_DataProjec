@@ -2,6 +2,10 @@
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+def rania_function():
+    print(f"bla bla bla")
+
+
 def func():
     print(f'This function was built in example_dev branch')
 
